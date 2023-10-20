@@ -8,6 +8,9 @@ YOLOv4 is a groundbreaking technological achievement in the field of artificial 
 The YOLO algorithm first divides the image into square (5x5, 13x13) grids. Each grid is recognised separately and it is decided whether there is an object in it or not. 
 If there is an object in the grid, it is checked whether the centre point of the object is within the grid and the grid with the centre point is determined.
 
+![darknet_yolo](https://github.com/KocHanim/Self-trained-drone-recognition-project-with-YOLOv4/assets/115664157/ec249beb-af35-4f83-bf9b-bf1fdeb76c47)
+
+
 
 # Why YOLOv4?
 
