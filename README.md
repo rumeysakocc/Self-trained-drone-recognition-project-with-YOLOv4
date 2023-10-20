@@ -24,6 +24,9 @@ The model has successfully passed the train and test phases. It was tested with 
 You can access the Google Colab code of the Model Training here:
 https://colab.research.google.com/drive/1Zf5jClI2DH0C0JToUbl5imR7_pMtTj4R?usp=share_link
 
+![yolov4_iha](https://github.com/KocHanim/Self-trained-drone-recognition-project-with-YOLOv4/assets/115664157/13d2f1b8-1c88-4d92-b94b-cf6c8224d736)
+
+
 # Requirements: 
 Google Colab Environment
 
