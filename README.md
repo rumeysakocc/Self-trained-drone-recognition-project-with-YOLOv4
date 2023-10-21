@@ -53,6 +53,12 @@ Contributions and enhancements to the project are welcome. Feel free to fork and
 Rumeysa KOÇ
 
 
+# Note
+I wrote this model for the school team I am a member of. For more information:
+Instagram Account: https://www.instagram.com/beu_saru_ge/
+LinkedIn Account: https://tr.linkedin.com/company/saru-ge 
+
+
 
 
 
