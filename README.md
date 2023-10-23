@@ -5,8 +5,8 @@
 You Only Look Once, or YOLO for short, represents a breakthrough technology in object detection and classification. YOLOv4 is an extremely impressive masterpiece in this field. 
 YOLOv4 is a groundbreaking technological achievement in the field of artificial intelligence and computer vision, performing object detection and classification with extraordinary speed and accuracy.
 
-The YOLO algorithm first divides the image into square (5x5, 13x13) grids. Each grid is recognised separately and it is decided whether there is an object in it or not. 
-If there is an object in the grid, it is checked whether the centre point of the object is within the grid and the grid with the centre point is determined.
+The YOLO algorithm first divides the image into square (5x5, 13x13) grids. Each grid is recognised individually and it is decided whether there is an object in it. 
+If there is an object in the grid, it is checked whether the centre point of the object is in the grid and the grid where the centre point is located is determined. It performs object detection and classification using the outputs of each grid cell and then selects the detections with the highest confidence. This approach is notable for its real-time object detection and fast processing capability.
 
 ![darknet_yolo](https://github.com/KocHanim/Self-trained-drone-recognition-project-with-YOLOv4/assets/115664157/ec249beb-af35-4f83-bf9b-bf1fdeb76c47)
 
